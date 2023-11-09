@@ -1,0 +1,31 @@
+body{
+  background-color:black;
+}
+
+.background-image {
+  background-size: cover;
+  height: 100%;
+  background-position: center center;
+}
+
+
+.background-layer {
+  background-color: rgba(0,0,0,0.9); 
+  background-size: cover;
+  background-position: center center;
+  z-index: 1; 
+}
+
+.Carousel-class{
+  background-color: white;
+}
+
+.newtable {
+  color: white;
+  background: rgba(0, 0, 0,0.4);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
