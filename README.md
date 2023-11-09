@@ -1,6 +1,6 @@
 # Film-and-TV-Series-Streaming-Website
 
-This project is a curated collection of films and TV series, bringing entertainment enthusiasts a one-stop platform for discovering and exploring their favorite shows.
+This project is a curated collection of films and TV series, bringing entertainment enthusiasts a one-stop platform for discovering and exploring their favorite shows. This is a full stack project. Django and react were used apart from that web scraping was used to get data. Several cinema sites were scraped and these data were sent to database directly.
 
 ## Key Features:
 
